@@ -1,0 +1,400 @@
+﻿BER1_REGROUP_BERM = تجمع مجددا مع فرقتك
+
+BER1_CLEAR_RUINS = اقتحم الدفاعات الألمانية
+
+BER1_CLEAR_CLOCKTOWER = اقض على مسلحي Panzershrek والرشاشات لتتمكن الدبابات من التقدم
+
+BER1_CLEAR_OFFICE = تقدم عبر مبنى المكاتب
+
+BER1_ENTER_ASYLUM = ادخل إلى المصحة
+
+BER1_CLEAR_ASYLUM = طهر المصحة
+
+BER1_PUSH_GERMANS = اقض على القوات الألمانية المتراجعة
+
+BER1_INTROSCREEN_TITLE = 'طوق فولاذي'
+
+BER1_INTROSCREEN_PLACE = بانكو، ألمانيا
+
+BER1_INTROSCREEN_DATE = 23 أبريل 1945
+
+BER1_INTROSCREEN_INFO = جيش الصدمة الثالث
+
+BER1_INTROSCREEN_NAME = الجندي بيترينكو
+
+BER2_INTROSCREEN_INFO = جيش الصدمة الثالث
+
+BER2_OBJ_REGROUP = تجمع مجددا مع فرقتك.
+
+BER2_OBJ_FIGHT_THRU_METRO = قاتل عبر المترو.
+
+BER2_OBJ_MOVE_THRU_STREET = تقدم في الشارع برفقة الدبابات.
+
+BER2_INTROSCREEN_DATE = 24 أبريل 1945
+
+BER2_INTROSCREEN_PLACE = برلين، ألمانيا
+
+BER2_INTROSCREEN_TITLE = 'الإخلاء'
+
+BER2_OBJ_CLEAR_BLDGS = طهر المباني.
+
+BER2_OBJ_STAY_WITH_TANK = ابق قريبا من الدبابة.
+
+BER2_OBJ_DEFEND_SARGE = دافع عن ريزنوف بينما يفتح الباب.
+
+BER2_OBJ_EXECUTE = أعدم الجرحى الألمان.
+
+BER2_INTROSCREEN_NAME = الجندي بيترينكو
+
+BER2_OBJ_GET_TO_METRO = توجه إلى المترو للهروب من الصواريخ!
+
+BER3_INTROSCREEN_TITLE = 'قلب الرايخ'
+
+BER3_INTROSCREEN_DATE = 30 أبريل 1945
+
+BER3_INTROSCREEN_PLACE = الرايخستاغ، برلين
+
+BER3_INTROSCREEN_NAME = الجندي بيترينكو
+
+BER3_INTROSCREEN_INFO = فرقة البنادق 150
+
+BER3_OBJ0 = تجمع مجددا مع فرقتك
+
+BER3_OBJ1 = تقدم عبر المباني
+
+BER3_OBJ2 = اقتحم الساحة
+
+BER3_HINT_PLANT_CHARGE = اضغط &&1 لزرع العبوة
+
+BER3_OBJ3_4 = دمر مدافع Flak 88 (4 متبقية)
+
+BER3_OBJ3_3 = دمر مدافع Flak 88 (3 متبقية)
+
+BER3_OBJ3_2 = دمر مدافع Flak 88 (2 متبقية)
+
+BER3_OBJ3_1 = دمر مدافع Flak 88 (1 متبقية)
+
+BER3_OBJ3 = دمر مدافع Flak 88
+
+BER3_OBJ4 = ادخل الرايخستاغ
+
+BER3_WARP_INTRO = مقدمة
+
+BER3_WARP_PLAZA = اقتحام الساحة
+
+BER3_WARP_REICH = درج الرايخستاغ
+
+BER3B_INTROSCREEN_DATE = 30 أبريل 1945
+
+BER3B_INTROSCREEN_INFO = فرقة البنادق 150
+
+BER3B_INTROSCREEN_PLACE = الرايخستاغ - برلين، ألمانيا
+
+BER3B_OBJ_2 = طهر الطابق الأرضي من البرلمان.
+
+BER3B_OBJ_1 = اقتحم الرايخستاغ.
+
+BER3B_OBJ_4 = التقط العلم الروسي الساقط.
+
+BER3B_OBJ_5 = ارفع العلم الروسي فوق الرايخستاغ.
+
+BER3B_OBJ_3 = تابع تطهير الرايخستاغ.
+
+BER3B_INTROSCREEN_TITLE = 'السقوط'
+
+BER3B_OBJ_FLAG_RETRIEVE = استعد العلم الروسي.
+
+BER3B_OBJ_FLAG_CARRY = احمل العلم الروسي إلى السطح.
+
+BER3B_HINT_FLAG_PICKUP = اضغط مطولا على [{+activate}] لالتقاط العلم.
+
+BER3B_HINT_FLAG_DROP = اضغط مطولا على [{+activate}] لإسقاط العلم.
+
+BER3B_FLAG_FAIL_DEADQUOTE = لقد تركت العلم خلفك!
+
+BER3B_FLAG_FAIL_WARNING = أيها الرفيق، لا تترك علمنا خلفك!
+
+BER3B_INTROSCREEN_NAME = الجندي ديمتري بيترينكو
+
+BER3B_OBJ_2A = اصعد إلى الشرفة لتوفير إسناد ناري.
+
+BER3B_DIARY_SKIP = (اضغط [{+activate}] للتخطي.)
+
+BER3B_OBJ_2B = اقض على الألمان في الشرفة الجنوبية.
+
+BER3B_FLAG_PLANT_TRIGGER_HINT = اضغط [{+activate}] لغرس العلم.
+
+MENU_KEY_CODE_WARNING = بتغيير مفتاح اللعبة الخاص بك، ستفقد جميع ملفاتك التعريفية، وسيُعاد تعيين الإحصائيات إلى الصفر! هل أنت متأكد من رغبتك في ذلك؟
+
+MENU_NOGOODHOST = لم يتم العثور على مضيف مناسب للعبة. يرجى المحاولة مجددا.
+
+MENU_UNTIL_MATCH_BEGIN = حتى تبدأ المباراة
+
+MENU_HIGHEST_DIFFICULTY = أعلى مستوى صعوبة تم إكماله :
+
+MENU_MISSIONOBJECTIVES_CAP = أهداف المهمة
+
+MENU_1_BOMB_IN_THE_CENTER = قنبلة واحدة في منتصف الخريطة. خذها ودمر هدف العدو.
+
+MENU_COOP_SERVER_SETUP = إعداد اللعبة
+
+MENU_RULES_DEATHCARDS = خدع بطاقات الموت
+
+MENU_RULES_DIFFICULTY_VETERAN = مخضرم
+
+MENU_RULES_DIFFICULTY_HARD = صعب
+
+MENU_RULES_DIFFICULTY_NORMAL = عادي
+
+MENU_RULES_DIFFICULTY_EASY = سهل
+
+MENU_RULES_HARDCORE = هاردكور
+
+MENU_RULES_DIFFICULTY = مستوى الصعوبة
+
+MENU_GAME_RULES_CAP = قواعد اللعبة
+
+MENU_SPRINT_SETTINGS = إعدادات الركض السريع
+
+MENU_CLASSIC_SPRINTING = كلاسيكي
+
+MENU_CROUCH_SPRINTING = الركض بوضعية الانحناء
+
+MENU_MULTI_GPU = استخدام بطاقات رسومات متعددة
+
+MENU_YES = نعم
+
+MENU_MULTIPLAYER = لعب جماعي
+
+MENU_QUIT = خروج
+
+MENU_OPTIONS_CAP = خيارات
+
+MENU_OPTIONS = خيارات
+
+MENU_SAVELOADGAME = حفظ/تحميل اللعبة
+
+MENU_LOADGAME = تحميل اللعبة
+
+MENU_NEWGAME_NOCAPS = لعبة جديدة
+
+MENU_NEWGAME = لعبة جديدة
+
+MENU_TRAINING = التدريب
+
+MENU_RESUMEGAME = متابعة اللعبة
+
+MENU_BACKTOGAME = العودة إلى اللعبة
+
+MENU_CURRENTLYINAGAME = أنت داخل لعبة حاليا
+
+MENU_DOYOUWISHTOCONTINUE = هل ترغب في المتابعة؟
+
+MENU_CHOOSESKILLLEVEL = اختر مستوى مهارتك
+
+MENU_GREENHORN = مبتدئ
+
+MENU_REGULAR = عادي
+
+MENU_HARDENED = متمرس
+
+MENU_VETERAN = مخضرم
+
+MENU_BACK = رجوع
+
+MENU_STARTTRAINING = بدء التدريب؟
+
+MENU_SWITCHTOMULTIPLAYER = الانتقال إلى اللعب الجماعي؟
+
+MENU_NO = لا
+
+MENU_SAVEGAMELIST = قائمة الألعاب المحفوظة
+
+MENU_SHOWAUTOSAVES = إظهار الحفظ التلقائي
+
+MENU_SHOWMANUALSAVES = إظهار الحفظ اليدوي
+
+MENU_NAME = الاسم
+
+MENU_DATE = التاريخ
+
+MENU_SAVEAS = حفظ باسم:
+
+MENU_DELETE = حذف
+
+MENU_LOAD = تحميل
+
+MENU_SAVE = حفظ
+
+MENU_DEL_SEL_SAVEGAME = حذف اللعبة المحفوظة المحددة؟
+
+MENU_OVERWRITE_EXISTING_FILE = استبدال الملف الموجود؟
+
+MENU_OK = موافق
+
+MENU_YOU_MUST_SPECIFY_A_FILENAME = يجب عليك تحديد اسم ملف!
+
+MENU_ARE_YOU_SURE_QUIT = سيتم فقدان أي تقدم غير محفوظ. هل أنت متأكد من رغبتك في الخروج؟
+
+MENU_CONTROLS = عناصر التحكم
+
+MENU_LOOK_CAP = النظر
+
+MENU_LOOK = النظر...
+
+MENU_MOVE_CAP = الحركة
+
+MENU_MOVE = الحركة...
+
+MENU_SHOOT = إطلاق النار...
+
+MENU_SAVE_INTERACT = حفظ/تفاعل
+
+MENU_CONTROL_DEFAULTS = الإعدادات الافتراضية للتحكم
+
+MENU_SYSTEM = النظام
+
+MENU_GRAPHICS_CAP = الرسومات
+
+MENU_GRAPHICS = الرسومات...
+
+MENU_SOUND_CAP = الصوت
+
+MENU_SOUND = الصوت...
+
+MENU_PERFORMANCE = الأداء
+
+MENU_DRIVERINFO = معلومات برنامج التشغيل
+
+MENU_RESET_SYSTEM_DEFAULTS_CAP = إعدادات النظام المثلى
+
+MENU_RESET_SYSTEM_DEFAULTS = إعدادات النظام المثلى
+
+MENU_CREDITS = فريق العمل
+
+MENU_RESET_TO_DEFAULTS = إعادة تعيين إلى الافتراضي
+
+MENU_THIS_WILL_RESTORE_ALL_SETTINGS = ستتم استعادة كل إعداد
+
+MENU_TO_THEIR_DEFAULT_VALUE = إلى قيمته الافتراضية.
+
+MENU_ARE_YOU_SURE = هل أنت متأكد؟
+
+MENU_YOUR_CONTROLS_ARE_NOW_SET = تم ضبط عناصر التحكم الخاصة بك
+
+MENU_TO_THEIR_ORIGINAL_DEFAULT_VALUES = على قيمها الافتراضية الأصلية.
+
+MENU_CLOSE = مغلق
+
+MENU_OPTIONS_SYSTEM = خيارات - النظام
+
+MENU_SET_RECOMMENDED = تعيين الموصى به
+
+MENU_QUALITY = الجودة
+
+MENU_QUALITY_RECOMMENDED = الجودة: الموصى بها
+
+MENU_VIDEO_MODE = وضع الفيديو
+
+MENU_COLOR_DEPTH = عمق الألوان
+
+MENU_FULLSCREEN = ملء الشاشة
+
+MENU_GEOMETRIC_DETAIL = التفاصيل الهندسية
+
+MENU_CHARACTER_TEXTURES = إكساءات الشخصيات
+
+MENU_GENERAL_TEXTURES = الإكساءات العامة
+
+MENU_TEXTURE_FILTER = مرشح الإكساءات
+
+MENU_TEXTURE_QUALITY = جودة الإكساءات
+
+MENU_NVIDIA_DISTANCE_FOG = ضباب المسافات من Nvidia
+
+MENU_BRIGHTNESS = السطوع
+
+MENU_LANGUAGE = اللغة
+
+MENU_APPLY_LANGUAGE_CHANGE = تطبيق تغيير اللغة
+
+MENU_APPLY = تطبيق
+
+MENU_YOUR_SETTINGS_ARE_NOW_SET = تم ضبط إعداداتك الآن
+
+MENU_LOOK_UP = النظر لأعلى
+
+MENU_LOOK_DOWN = النظر لأسفل
+
+MENU_MOUSE_LOOK = النظر بالفأرة
+
+MENU_CENTER_VIEW = توسيط الرؤية
+
+MENU_FREE_LOOK = الرؤية الحرة
+
+MENU_INVERT_MOUSE = عكس اتجاه الفأرة
+
+MENU_SMOOTH_MOUSE = تنعيم حركة الفأرة
+
+MENU_MOUSE_SENSITIVITY = حساسية الفأرة
+
+MENU_SHOW_OBJECTIVES_SCORES = إظهار الأهداف/النتائج
+
+MENU_USE = استخدام
+
+MENU_QUICK_SAVE = حفظ سريع
+
+MENU_QUICK_LOAD = تحميل سريع
+
+MENU_SCREENSHOT = لقطة شاشة
+
+MENU_FORWARD = للأمام
+
+MENU_BACKPEDAL = للخلف
+
+MENU_MOVE_LEFT = تحرك لليسار
+
+MENU_MOVE_RIGHT = تحرك لليمين
+
+MENU_LEAN_LEFT = الميل لليسار
+
+MENU_LEAN_RIGHT = الميل لليمين
+
+MENU_STAND = وقوف
+
+MENU_CROUCH = انحناء
+
+MENU_PRONE = انبطاح
+
+MENU_JUMP_STANCE_UP = قفز/رفع الوضعية
+
+MENU_STANCE_DOWN = خفض الوضعية
+
+MENU_STANCE_UP = رفع الوضعية
+
+MENU_TOGGLE_CROUCH = تبديل الانحناء
+
+MENU_TOGGLE_PRONE = تبديل الانبطاح
+
+MENU_HOLD_DOWN_CROUCH = استمرار الانحناء
+
+MENU_HOLD_DOWN_PRONE = استمرار الانبطاح
+
+MENU_TURN_LEFT = التفاف لليسار
+
+MENU_TURN_RIGHT = التفاف لليمين
+
+MENU_STRAFE = تحرك جانبي
+
+MENU_WALL_MARKS = آثار الجدران
+
+MENU_EJECTING_BRASS = قذف فوارغ الرصاص
+
+MENU_DYNAMIC_LIGHTS = إضاءة ديناميكية
+
+MENU_LOW_QUALITY_SKY = سماء منخفضة الجودة
+
+MENU_SYNC_EVERY_FRAME = مزامنة كل إطار
+
+MENU_NVIDIA_FOG_TYPE = نوع ضباب Nvidia
+

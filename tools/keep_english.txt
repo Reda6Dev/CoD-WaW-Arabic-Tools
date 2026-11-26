@@ -1,0 +1,44 @@
+# Keys that START with these words and have a SHORT English text (24 letters or less) stay English: they are not listed in the todo/part files again and again.
+# Add a line to hide more, delete a line to get them back in the next extract. Long texts are never hidden.
+STARTS_          # names of mission start points (developer menu)
+SCRIPT_          # symbols like x2, +, :
+AC130_HUD_       # letters and codes drawn on the AC-130 screen
+EXE_             # console commands (say, say_team)
+WEAPON_          # weapon names (USP .45, M16A4 ...)
+MENU_ISDN
+MENU_19          # years 1941 ... 1945
+MENU_XBOX
+MENU_2X
+MENU_4X
+MENU_AC130
+MENU_30
+MENU_100PERCENT
+MENU_BIND_KEY_PENDING
+MENU_GOTO_NEXT
+CGAME_SB_PLAYER
+GAME_GODMODE     # developer cheat messages
+GAME_DEMI_GODMODE
+GAME_NOTARGET
+GAME_NOCLIP
+GAME_UFO
+VIDSUBTITLES_ATTRACT_
+KEY_KP_          # numeric keypad keys
+KEY_F            # F1 ... F12
+KEY_TAB
+KEY_ENTER
+KEY_ESCAPE
+KEY_SPACE
+KEY_BACKSPACE
+KEY_ALT
+KEY_CTRL
+KEY_SHIFT
+KEY_CAPSLOCK
+KEY_INS
+KEY_DEL
+KEY_PGDN
+KEY_PGUP
+KEY_HOME
+KEY_END
+KEY_PAUSE
+KEY_SEMICOLON
+KEY_COMMAND

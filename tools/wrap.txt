@@ -1,0 +1,8 @@
+38
+# First number = how many characters fit on one line before the tool breaks the text (default for everything).
+# Lines like   PREFIX = number   give another width to every key that starts with PREFIX.
+# If a text shows its LAST line on top (lines upside down), the game wrapped it by itself because the box is narrower than this number: make it smaller.
+# Subtitles (the dialogue lines at the bottom of the screen): the more characters per line, the fewer lines (a long dialogue climbs and vanishes before you can read it).
+# 42 and 50 are first guesses from the English subtitle box (about 48 English letters per line). Test in the game: if the lines of a long dialogue come out upside down, lower the number.
+SUBTITLE_ = 52
+VIDSUBTITLES_ = 58

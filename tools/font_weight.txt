@@ -1,0 +1,7 @@
+# normal | bold | extra, optionally +N = N percent thicker (example: bold+20)
+smallFont = bold+20
+normalFont = bold+15
+objectiveFont = bold
+bigFont = normal
+boldFont = normal
+extraBigFont = bold+10

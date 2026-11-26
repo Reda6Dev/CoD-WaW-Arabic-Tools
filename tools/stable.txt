@@ -1,0 +1,1 @@
+# files whose every text keeps its original length (off by default; very strict)

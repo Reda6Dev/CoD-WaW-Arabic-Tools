@@ -1,0 +1,12 @@
+# حجم الحروف. 1.0 = الحجم الأصلي للعبة. (0.4 إلى 1.5)
+# extraBigFont = سبتايتل الحوار والفيديو + عناوين القوائم + قائمة الأهداف (كلها نفس الخط)
+# bigFont      = (غير مستخدم بالسبتايتل بـ WaW)
+# objectiveFont = سطور بداية المهمة
+# normalFont   = عناصر القوائم، smallFont = النصوص الصغيرة (مفاتيح التحكم)
+all = 1.0
+bigFont = 0.95
+extraBigFont = 0.90
+objectiveFont = 0.78
+smallFont = 1.0
+normalFont = 1.0
+boldFont = 1.0

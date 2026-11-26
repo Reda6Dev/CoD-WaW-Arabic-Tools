@@ -1,0 +1,5 @@
+# Latin capitals that must stay REAL letters in the game (key names such as F are drawn by the game itself, in capitals).
+# Write the letters on one line, any separator, for example:   F R
+# X, Y, Z are always available. Every other capital costs one rare Arabic shape (up to 6 letters in total).
+# If you change this file, rebuild ALL files (3_بناء_الملفات.bat) and install them together.
+F

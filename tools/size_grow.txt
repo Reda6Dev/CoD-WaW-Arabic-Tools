@@ -1,0 +1,6 @@
+all
+# on  = if the translation of a file is longer than the original, the file is made larger instead of failing (multiples of 1024 bytes).
+#       Only for files where this is safe by calculation. Tested in the game: localized_code_post_gfx_mp.ff and code_post_gfx.ff (menus).
+# all = the same for ALL files (missions, common.ff...). The pointer search may then touch a few numbers that only look like pointers.
+#       Use 10_تجربة_تكبير_الملف.bat to try a file in the game first.
+off
