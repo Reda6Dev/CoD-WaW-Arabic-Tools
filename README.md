@@ -20,10 +20,14 @@
 
 ---
 
-## صورة من المثبّت
+## صور من داخل اللعبة والمثبّت
 
 <p align="center">
-  <img src="assets/screenshots/installer.png" width="560" alt="واجهة مثبّت تعريب Call of Duty: World at War" />
+  <img src="assets/screenshots/ingame_missions.jpg" width="410" alt="قائمة اختيار المهمة بالعربية" />
+  <img src="assets/screenshots/ingame_options.jpg" width="410" alt="قائمة الخيارات والرسومات بالعربية" />
+</p>
+<p align="center">
+  <img src="assets/screenshots/installer.png" width="440" alt="واجهة مثبّت تعريب Call of Duty: World at War" />
 </p>
 
 ---
