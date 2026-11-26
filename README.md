@@ -20,6 +20,14 @@
 
 ---
 
+## صورة من المثبّت
+
+<p align="center">
+  <img src="assets/screenshots/installer.png" width="560" alt="واجهة مثبّت تعريب Call of Duty: World at War" />
+</p>
+
+---
+
 ## للاعبين: طريقة التثبيت في 3 خطوات
 
 1. نزّل ملف **`WaW_Arabic.exe`** من صفحة [**التحميلات (Releases)**](https://github.com/Reda6Dev/CoD-WaW-Arabic-Tools/releases).
